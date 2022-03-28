@@ -5,8 +5,8 @@ Autograd contains forward and backward autograd, both of them are implemented wi
 
 ## Examples of forward and backward autograd of function ![](https://latex.codecogs.com/svg.image?f(x_1,x_2)&space;=&space;ln(x_1)&plus;x_1x_2-sin(x_2))
 
-Forward
+## Forward
 <img src="https://raw.githubusercontent.com/ChengruiZhang/AutoGrad-with-Julia/main/Autograd/img/backward.jpg"/>
 
-Backward
+## Backward
 <img src="https://raw.githubusercontent.com/ChengruiZhang/AutoGrad-with-Julia/main/Autograd/img/backward.jpg"/>
